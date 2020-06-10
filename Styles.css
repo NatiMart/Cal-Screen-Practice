@@ -1,0 +1,18 @@
+body{
+    color: #3F6E11;
+    background-image: url(https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/benefits-of-pineapple-1296x728-feature.jpg?w=1155&h=1528);
+}
+.screen{
+    width: 300px;
+    height: 100px;
+    background-color: #44FFC4;
+    border: 3px solid #3F6E11;
+    border-radius: 30px;    
+    margin: 10px;
+    box-shadow: 15px 20px 30px darkviolet;
+
+    color: #3F6E11;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
